@@ -1,0 +1,7 @@
+{
+  "name": "bugTracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Antony <antonyc828@gmail.com>",
+  "license": "MIT"
+}
