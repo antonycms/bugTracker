@@ -1,7 +1,22 @@
 {
-  "name": "bugTracker",
+  "name": "bug-tracker",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Antony <antonyc828@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.2",
+    "express": "^4.17.1",
+    "google-spreadsheet": "^2.0.8",
+    "now": "^16.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
 }
