@@ -1,5 +1,5 @@
 # BugTracker
-## Projeto Full Stack Master DevPleno
+## Projeto Full Stack Lab DevPleno
 
 ### Projeto feito com Node.js
 
