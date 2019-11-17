@@ -1,0 +1,22 @@
+#btn_send {
+  background-color: #00c853;
+  color: white;
+}
+
+#btn_send:hover {
+  background-color: #5efc82;
+}
+
+h1 {
+  font-weight: bold;
+  margin-top: 4px;
+}
+
+h3 {
+  font-size: 24px;
+  margin-bottom: 18px;
+}
+
+button {
+  margin-bottom: 10px;
+}
